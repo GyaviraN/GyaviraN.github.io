@@ -1,0 +1,75 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<!-- #BeginEditable "doctitle" -->
+<title></title>
+<!-- #EndEditable -->
+<link href="styles/style3.css" media="screen" rel="stylesheet" title="CSS" type="text/css" />
+<style type="text/css">
+.auto-style1 {
+	text-align: center;
+	color: white;
+}
+.auto-style2 {
+	margin-left: 1px;
+}
+.auto-style3 {
+	color: white;
+}
+</style>
+</head>
+
+<body>
+
+<!-- Begin Container -->
+<div id="container">
+	<!-- Begin Masthead -->
+	<div id="masthead">
+		<h1 class="auto-style1">
+		<img alt="PIC" class="auto-style2" height="87" src="images/msfp_smbus1_01.jpg" width="160" />GHHHHHHHHH</h1>
+	</div>
+	<!-- End Masthead -->
+	<!-- Begin Navigation -->
+	<div id="navigation">
+		<ul>
+			<li><a href="home.html">HOME</a></li>
+			<li><a href="spread.html">SPREAD</a></li>
+			<li><a href="prevention.html">PREVENTION</a></li>
+			<li><a href="gallery.html">GALLERY</a></li>
+		</ul>
+	</div>
+	<!-- End Navigation -->
+	<!-- Begin Page Content -->
+	<div id="page_content">
+		<!-- Begin Left Column -->
+		<div id="column_l">
+			<!-- #BeginEditable "content" -->
+			<h2>Headline 2</h2>
+			<p>insert content here</p>
+			<!-- #EndEditable --></div>
+		<!-- End Left Column -->
+		<!-- Begin Right Column -->
+		<div id="column_r">
+			<!-- #BeginEditable "sidebar" -->
+			<h3>UPDATES</h3>
+			<MARQUEE>HHHHHH</MARQUEE>
+			<img alt="PIC2" height="83" src="images/msfp_smbus1_02.jpg" width="189" /><p>
+			GET VACCINATED</p>
+			<p>
+			<img alt="PIC3" height="94" src="images/msfp_smbus1_03.jpg" width="181" /></p>
+			<p>WEAR YOUR MASK PLEASE </p>
+			<p>&nbsp;</p>
+			<!-- #EndEditable --></div>
+		<!-- End Right Column --></div>
+	<!-- End Page Content -->
+	<!-- Begin Footer -->
+	<div id="footer" class="auto-style3">
+		FIGHT AGAINST</div>
+	<!-- End Footer --></div>
+<!-- End Container -->
+
+</body>
+
+</html>
